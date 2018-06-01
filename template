@@ -1,0 +1,27 @@
+a = get char
+
+int i = a - 65;
+
+struct root
+{
+
+root *word[27]
+}
+
+Node *letter = malloc
+
+while{
+Node *new = malloc
+if(new word){
+letter->root[i] = new;
+is_word = true;
+}
+
+if(old word)
+{
+new->root[i] = new;
+is_word = true;
+}
+
+
+}
